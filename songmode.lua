@@ -101,7 +101,6 @@ function pulse2()
       u = u + 1
       r = t2[u]
       s = t[u]
-      print(r)
       m:program_change(r, 1)
       clock.sync(2)
       clock.sleep(beat_duration/2)
