@@ -29,7 +29,7 @@ By using program change MIDI commands the patterns of the Digitakt (or the other
 -	No empty cells are allowed between filled cells (at least in the current version of the script)
 -	K2 starts/stops the Digitakt and the pattern sequence from the current frame position. K2 + Alt starts/stops the Digitakt and the pattern sequence from Bar 1. There is a play cursor that shows the active bar. The small circle on the right side, just next to the page indicator indicates on which page the play cursor is currently located.
 -	You can also activate/deactivate the loop mode in the parameter menu. When activated, the entire song or song section is looped.
-
+- The parameter menu allows you to save and load tracks as well as to delete the current sequence.
 
 #### Further aims
 -	I would like to extend the script so that you can change the order of pattern during playing and add a loop of a selected part.
