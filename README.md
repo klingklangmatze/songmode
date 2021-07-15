@@ -1,9 +1,6 @@
 ## songmode
 The Norns script provides a "song mode", or more precisely, a pattern chaining tool for e.g., Elektron Digitakt or Model:Cycles. It could also work with Model:Samples or Digitone...but I have not tested it.
 
-#### Personal note
-My programming experience is quite low, so I am grateful for any help, comments or suggestions for improvement.
-
 #### Requirements
 -	Norns (Factory / Fates / Shield)
 -	Elektron Digitakt (or Model:Cycles)
